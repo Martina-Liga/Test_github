@@ -1,0 +1,1 @@
+Dokumentace k mému projektu
